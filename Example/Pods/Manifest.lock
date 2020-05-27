@@ -1,0 +1,16 @@
+PODS:
+  - JJSelectLib (0.1.0)
+
+DEPENDENCIES:
+  - JJSelectLib (from `../`)
+
+EXTERNAL SOURCES:
+  JJSelectLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JJSelectLib: 27043125b92fb1fb500fa0b78eda35fe6678107f
+
+PODFILE CHECKSUM: 54e467a424afb9eafc33c523b4935ecfced63af7
+
+COCOAPODS: 1.7.5

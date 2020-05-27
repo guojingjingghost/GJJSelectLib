@@ -1,0 +1,6 @@
+framework module JJSelectLib {
+  umbrella header "JJSelectLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
